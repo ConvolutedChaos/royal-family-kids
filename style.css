@@ -146,12 +146,6 @@ a:hover { color: var(--red); }
 
 .btn-row { display: flex; flex-wrap: wrap; gap: 12px; }
 
-.ext::after {
-  content: "\2197"; /* ↗ */
-  font-size: 0.85em;
-  margin-left: 0.1em;
-}
-
 /* ---------- Header / nav ---------- */
 .site-header {
   position: sticky;
